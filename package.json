@@ -1,0 +1,22 @@
+{
+  "name": "jest-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IuliiaKonovalova/jest-introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IuliiaKonovalova/jest-introduction/issues"
+  },
+  "homepage": "https://github.com/IuliiaKonovalova/jest-introduction#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
